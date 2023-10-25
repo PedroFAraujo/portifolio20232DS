@@ -1,2 +1,2 @@
-# portifolio20232DS
-Repositório para o portfólio do segundo ano de Desenvolvimento de Sistemas - AMS - 2023 
+Repositório para o meu portfólio que retrata minha jornada como aluno do curso técnico de Desenvolvimento de Sistemas - Articulado Médio Superior (AMS) - da ETEC Zona Leste, em parceria com a multinacional IBM. 
+
